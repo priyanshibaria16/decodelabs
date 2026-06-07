@@ -1,0 +1,25 @@
+{
+  "name": "student-feedback-api",
+  "version": "1.0.0",
+  "description": "Student Feedback API - Node.js and Express.js backend project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "api",
+    "rest",
+    "in-memory"
+  ],
+  "author": "TechNova AI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
